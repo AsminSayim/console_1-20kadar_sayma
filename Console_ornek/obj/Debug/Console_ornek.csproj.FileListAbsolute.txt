@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Console_ornek\Console_ornek\bin\Debug\Console_ornek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Console_ornek\Console_ornek\bin\Debug\Console_ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Console_ornek\Console_ornek\bin\Debug\Console_ornek.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Console_ornek\Console_ornek\obj\Debug\Console_ornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Console_ornek\Console_ornek\obj\Debug\Console_ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Console_ornek\Console_ornek\obj\Debug\Console_ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Console_ornek\Console_ornek\obj\Debug\Console_ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Console_ornek\Console_ornek\obj\Debug\Console_ornek.pdb
